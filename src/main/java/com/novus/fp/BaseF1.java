@@ -6,11 +6,6 @@ package com.novus.fp;
 public abstract class BaseF1<A, B> implements F1<A, B> {
 	
 	public <C> F1<A, C> andThen(final F1<B, C> g) {
-		final F1<A,B> f = this;
-		return new BaseF1<A,C>() {
-			public C apply(A a) {
-				return g.apply(f.apply(a));
-			}
-		};
+		throw new RuntimeException("TODO: implement composition!");
 	}
 }
