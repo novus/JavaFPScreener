@@ -1,3 +1,10 @@
+This is a small pre-screening exercise for Java candidates before a phone conversation with one of the engineers
+will be given. Following are the instructions to be sent to the candidates. Note that it is important to tell the
+candidate beforehand that they will need an immediate block of 30 minutes to complete the exercise, and that it
+will be advantageous to work on a computer with some standard Java development tools (specifically [maven](http://maven.apache.org/download.cgi)).
+
+---
+
 The attached project contains a small, incomplete implementation of functions as first order objects in Java.
 Within the project is a JUnit test suite (`src/test/java/com/novus/fp/FunctionTest.java`) that tests two properties
 of functions: 1) application and 2) composition.
