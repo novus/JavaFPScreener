@@ -1,9 +1,11 @@
 This is a small pre-screening exercise for Java candidates before a phone conversation with one of the engineers
-will be given. Following are the instructions to be sent to the candidates. Note that it is important to tell the
-candidates beforehand that they will need an immediate block of 45 minutes to complete the exercise, and that it
-will be advantageous to work on a computer with a standard Java development environment. Specifically, the compiler
-and jvm binaries should be in their system path and their `JAVA_HOME` environment variable should be appropriately
-set (this is standard for java developers).
+will be given. 
+
+Candidates will need an immediate block of 45 minutes to complete the exercise and will require a standard
+Java development environment. Specifically, the compiler and jvm binaries should be in their system path
+and their `JAVA_HOME` environment variable should be appropriately set (this is standard for java developers).
+
+Following are the instructions to be sent to the candidates.
 
 ---
 
